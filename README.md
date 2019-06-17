@@ -2,4 +2,7 @@
 
 Here are my solutions to [learnyounode](https://nodeschool.io/index.html#workshoppers) challenges.
 
-Each file with solution also contains challenge description and an official solution. 
+Each program.js file contains:
+-my solution,
+-official solution,
+-problem description
